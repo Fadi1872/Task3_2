@@ -10,6 +10,7 @@
 }
 h1,h2{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
 }
 main h1{
     font-size: 2.5rem;
@@ -167,7 +168,7 @@ form{
 }
 
 
-@media screen and (max-width:400px){
+@media screen and (max-width:410px){
     html{
         font-size: 14px;
     }
